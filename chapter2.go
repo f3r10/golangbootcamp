@@ -19,7 +19,7 @@ func newRelease(a Artist) int {
   return a.Songs
 }
 
-func main() {
+func main_2() {
   name, city := "Fernando Ledesma", "Quito"
   age := 26
 
